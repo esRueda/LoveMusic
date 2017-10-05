@@ -1,0 +1,42 @@
+.contenedor {
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+    margin-top: 13vh;
+}
+
+
+.cabecera {
+    background-color: rgb(129, 144, 244);
+    margin-top: -10px;
+    border-bottom: 1px solid black;
+}
+
+.contacto {
+    padding: 45px 45px 20px;
+    background-color: white;
+    height: 400px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.contacto label {
+    display: block;
+    font-weight: bold;
+}
+
+.contacto div {
+    margin-bottom: 15px;
+}
+
+.contacto table {
+	margin: auto;
+  border: 1px solid rgb(40, 40, 40);
+  border-radius: 1px;
+}
+
+.asunto {
+  margin-left: 100px;
+}
